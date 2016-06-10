@@ -14,7 +14,7 @@
 	],
 	"templates": "./public/templates",
 	"languages": "languages",
-	"defaultLang": "en_GB"
+	"defaultLang": "en_GB",
 	"hooks": [
 		{
 			"hook": "action:notification.pushed", "method": "pushed"
