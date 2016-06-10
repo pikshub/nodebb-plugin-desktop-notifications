@@ -13,6 +13,8 @@
 	"public/less/default.less"
 	],
 	"templates": "./public/templates",
+	"languages": "languages",
+	"defaultLang": "en_GB"
 	"hooks": [
 		{
 			"hook": "action:notification.pushed", "method": "pushed"
